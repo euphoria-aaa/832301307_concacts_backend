@@ -1,0 +1,187 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 00:25:15:2515"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 00:44:55:4455"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:44:55:4455"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:45:00:450"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:45:01:451"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:45:05:455"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:45:09:459"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:45:11:4511"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:46:08:468"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:46:48:4648"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:46:48:4648"}
+{"id":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"libai","phone":"15000000002","timestamp":"2025-10-29 00:47:06:476"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:06:476"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:09:479"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:14:4714"}
+{"id":"1","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:15:4715"}
+{"id":"1","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"libai1","phone":"15000000002","timestamp":"2025-10-29 00:47:17:4717"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:17:4717"}
+{"id":"1","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-29 00:47:43:4743"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:47:43:4743"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:02:502"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:02:502"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:08:508"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:08:508"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:19:5019"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:19:5019"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:31:5031"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:50:31:5031"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:02:512"}
+{"id":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"li bai","phone":"13100002222","timestamp":"2025-10-29 00:51:07:517"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:07:517"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:09:519"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai1","phone":"13100002222","timestamp":"2025-10-29 00:51:11:5111"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:11:5111"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:40:5140"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 00:51:40:5140"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:02:27:227"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:03:36:336"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:03:43:343"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:03:51:351"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:04:50:450"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai11","phone":"13100002222","timestamp":"2025-10-29 01:04:52:452"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:04:52:452"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:08:40:840"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:00:90"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:01:91"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:02:92"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai111","phone":"13100002222","timestamp":"2025-10-29 01:09:04:94"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:04:94"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:05:95"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:06:96"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 01:09:23:923"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:27:927"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:29:929"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:29:929"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:30:930"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai1111","phone":"13100002222","timestamp":"2025-10-29 01:09:32:932"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:32:932"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:33:933"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai11112","phone":"13100002222","timestamp":"2025-10-29 01:09:35:935"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:35:935"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:37:937"}
+{"id":3,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"li bai","phone":"13100002222","timestamp":"2025-10-29 01:09:42:942"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:09:42:942"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:11:25:1125"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:11:32:1132"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:11:35:1135"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:11:36:1136"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai1","phone":"13100002222","timestamp":"2025-10-29 01:11:38:1138"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:11:38:1138"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:12:27:1227"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:12:36:1236"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:14:1314"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:16:1316"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai11","phone":"13100002222","timestamp":"2025-10-29 01:13:17:1317"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:17:1317"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:19:1319"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:20:1320"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai112","phone":"13100002222","timestamp":"2025-10-29 01:13:21:1321"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:21:1321"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:22:1322"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:46:1346"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:46:1346"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:46:1346"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:13:48:1348"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:14:59:1459"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:15:06:156"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:15:28:1528"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:15:45:1545"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:15:45:1545"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:17:03:173"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:17:06:176"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:17:09:179"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:08:188"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:14:1814"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:15:1815"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai1122","phone":"13100002222","timestamp":"2025-10-29 01:18:17:1817"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:17:1817"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:21:1821"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:24:1824"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:26:1826"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai11223","phone":"13100002222","timestamp":"2025-10-29 01:18:31:1831"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:31:1831"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:36:1836"}
+{"id":"2","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-29 01:18:41:1841"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:41:1841"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:18:51:1851"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:22:02:222"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:22:27:2227"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:22:32:2232"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:22:42:2242"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:14:2814"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:15:2815"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:16:2816"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 01:28:21:2821"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:21:2821"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:23:2823"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai112231","phone":"13100002222","timestamp":"2025-10-29 01:28:26:2826"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:26:2826"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:29:2829"}
+{"id":"3","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-29 01:28:35:2835"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:35:2835"}
+{"count":0,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:49:2849"}
+{"id":4,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"li bai","phone":"13100002222","timestamp":"2025-10-29 01:28:53:2853"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:53:2853"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:28:58:2858"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai2","phone":"13100002222","timestamp":"2025-10-29 01:29:01:291"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:29:01:291"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:30:53:3053"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:33:01:331"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:33:01:331"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:33:01:331"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:33:02:332"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:47:01:471"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 01:58:53:5853"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:58:58:5858"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:59:01:591"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai23","phone":"13100002222","timestamp":"2025-10-29 01:59:03:593"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:59:03:593"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 01:59:11:5911"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 02:05:35:535"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 02:05:44:544"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 02:05:45:545"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"li bai231","phone":"13100002222","timestamp":"2025-10-29 02:05:46:546"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 02:05:46:546"}
+{"id":5,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"li bai","phone":"13100002222","timestamp":"2025-10-29 02:05:51:551"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 02:05:51:551"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-29 14:45:41:4541"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:46:22:4622"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:48:37:4837"}
+{"id":6,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"Ella","phone":"13100002222","timestamp":"2025-10-29 14:49:07:497"}
+{"count":3,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:07:497"}
+{"id":"4","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-29 14:49:11:4911"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:11:4911"}
+{"id":"5","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-29 14:49:14:4914"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:14:4914"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:14:4914"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"Ella1","phone":"13100002222","timestamp":"2025-10-29 14:49:17:4917"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:17:4917"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:18:4918"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"Ella","phone":"13100002222","timestamp":"2025-10-29 14:49:20:4920"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-29 14:49:20:4920"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is running on http://localhost:3000\u001b[39m","port":3000,"timestamp":"2025-10-31 17:31:27:3127"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:31:34:3134"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:31:36:3136"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"e","timestamp":"2025-10-31 17:31:39:3139"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:31:40:3140"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"r","timestamp":"2025-10-31 17:31:41:3141"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:31:43:3143"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"r","timestamp":"2025-10-31 17:31:45:3145"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:31:49:3149"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:32:19:3219"}
+{"id":7,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact created successfully\u001b[39m","name":"Lila Montgomery","phone":"4155550198","timestamp":"2025-10-31 17:32:55:3255"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:32:55:3255"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"e","timestamp":"2025-10-31 17:32:58:3258"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"ell","timestamp":"2025-10-31 17:33:01:331"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"ella","timestamp":"2025-10-31 17:33:03:333"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:04:334"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"ell","timestamp":"2025-10-31 17:33:08:338"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:08:338"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts searched successfully\u001b[39m","query":"lila","timestamp":"2025-10-31 17:33:11:3311"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:13:3313"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:16:3316"}
+{"id":"6","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact updated successfully\u001b[39m","name":"Ella1","phone":"13100002222","timestamp":"2025-10-31 17:33:19:3319"}
+{"count":2,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:19:3319"}
+{"id":"7","level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContact deleted successfully\u001b[39m","timestamp":"2025-10-31 17:33:23:3323"}
+{"count":1,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mContacts retrieved successfully\u001b[39m","timestamp":"2025-10-31 17:33:23:3323"}
